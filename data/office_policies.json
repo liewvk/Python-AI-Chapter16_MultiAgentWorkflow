@@ -1,0 +1,18 @@
+[
+  {
+    "topic": "Refund policy",
+    "text": "For the fictional BrightDesk store, customers may request a refund within 14 days of delivery. An order number and proof of purchase are required. Refund decisions must be confirmed by a human support officer."
+  },
+  {
+    "topic": "Password reset",
+    "text": "BrightDesk staff can reset their portal password by selecting Forgot Password on the sign-in page. A reset link is sent to their registered work email. Support staff never ask users to share passwords."
+  },
+  {
+    "topic": "Invoice questions",
+    "text": "For BrightDesk invoice enquiries, customers should provide the invoice number. The accounts team reviews billing discrepancies within three business days. No payment adjustment is made automatically by this application."
+  },
+  {
+    "topic": "Delivery updates",
+    "text": "BrightDesk provides shipment status through the order tracking page. If an order is delayed, customers should provide the order number to support for manual investigation."
+  }
+]
